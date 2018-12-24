@@ -1,0 +1,127 @@
+body {
+  font-family: 'Roboto', 'Raleway', sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  color: #303030;
+  background-color: #eeeeee;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+a {
+  color: #303030;
+  text-decoration: none;
+}
+
+a.logo {
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+}
+
+header {
+  padding-top: 30px;
+  height: 140px;
+  width: 100%;
+
+}
+
+.center {
+  width: 1198px;
+  margin: 0 auto;
+}
+
+header nav {
+  float: right;
+}
+
+header nav a {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 60px;
+  padding: 0 25px;
+}
+
+.title {
+  margin: 0;
+  font-family: 'Relway', sans-serif;
+  font-size: 150px;
+  font-weight: 900;
+  text-align: right;
+}
+
+.slideimg {
+  display: inline-block;
+  float: right;
+  width: 35%;
+  padding-right: 40px;
+}
+
+p .text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.view_project {
+  color: #e10011;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.slider {
+  display: inline-block;
+  width: 35%;
+  text-align: right;
+}
+
+.main_block{
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+}
+
+#feature {
+  color: #303030;
+  font-family: 'Relway', sans-serif;
+  font-weight: 900;
+  font-size: 48px;
+  padding-top: 100px;
+  line-height: 0;
+}
+
+.feature {
+  text-align: center;
+  width: 40%;
+  font-family: 'Relway', sans-serif;
+  font-weight: 400;
+  padding: 10px 0;
+}
+img.block {
+  margin: 25px 25px;
+}
+.underline {
+  text-align: center;
+}
+.hidden {
+  height: 185px;
+  visibility: hidden;
+}
+
+.block20 {
+  width: 20%;
+}
+
+.block50 {
+  width: 50%;
+}
