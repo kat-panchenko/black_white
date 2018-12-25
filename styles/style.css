@@ -80,9 +80,10 @@ p .text {
 }
 
 .slider {
-  display: inline-block;
-  width: 35%;
+  /*display: inline-block;
+  width: 55%;*/
   text-align: right;
+ /* overflow: hidden;*/
 }
 
 .main_block{
