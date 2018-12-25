@@ -21,16 +21,15 @@ a.logo {
   font-weight: 900;
 }
 
-img {
+/*img {
   width: auto;
   max-width: 100%;
-}
+}*/
 
 header {
   padding-top: 30px;
   height: 140px;
   width: 100%;
-
 }
 
 .center {
@@ -57,13 +56,14 @@ header nav a {
   font-size: 150px;
   font-weight: 900;
   text-align: right;
+  text-transform: uppercase;
 }
 
 .slideimg {
   display: inline-block;
   float: right;
-  width: 35%;
-  padding-right: 40px;
+  width: 40%;
+  padding-left: 60px;
 }
 
 p .text {
