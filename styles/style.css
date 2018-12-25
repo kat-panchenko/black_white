@@ -57,13 +57,16 @@ header nav a {
   font-size: 150px;
   font-weight: 900;
   text-align: right;
+  text-transform: uppercase;
+  line-height: 170px;
 }
 
 .slideimg {
-  display: inline-block;
   float: right;
   width: 35%;
   padding-right: 40px;
+  margin-left: 60px;
+  background: radial-gradient(circle, white 35%,#eeeeee 70% );
 }
 
 p .text {
@@ -89,6 +92,7 @@ p .text {
   background-color: white;
   display: inline-block;
   text-align: center;
+  margin: 30px;
 }
 
 #feature {
@@ -96,7 +100,7 @@ p .text {
   font-family: 'Relway', sans-serif;
   font-weight: 900;
   font-size: 48px;
-  padding-top: 100px;
+  padding-top: 70px;
   line-height: 0;
 }
 
@@ -107,9 +111,7 @@ p .text {
   font-weight: 400;
   padding: 10px 0;
 }
-img.block {
-  margin: 25px 25px;
-}
+
 .underline {
   text-align: center;
 }
