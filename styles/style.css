@@ -63,7 +63,7 @@ header nav a {
   display: inline-block;
   float: right;
   width: 40%;
-  padding-left: 60px;
+  margin-left: 60px;
 }
 
 p .text {
